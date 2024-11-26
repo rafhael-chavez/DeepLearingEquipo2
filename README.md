@@ -4,3 +4,4 @@
 - ✅ Semana 5: CNN + Transfer Learning
 - ✅ Semana 6: Text Embedding
 - ✅ Semana 7: RNN
+- ✅ Semana 8: Generative Learning
